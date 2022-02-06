@@ -1,0 +1,1 @@
+<img align=center src="https://codesmiths-assets.s3.ap-northeast-3.amazonaws.com/qr.svg">
